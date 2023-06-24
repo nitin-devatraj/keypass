@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #ebf7ff;
+  color: #003d66;
+}
+
+main {
+  margin-top: 5rem;
+  padding: 40px 0px;
+}
